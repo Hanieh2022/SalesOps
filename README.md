@@ -15,16 +15,6 @@ Calculating scores for each company and ranking them from highest to lowest scor
 
 ## Workflow Structure
 
-seed_companies.csv
-        ↓
-load_clean_data.py
-        ↓
-api_reguest.py
-        ↓
-score_leads.py
-        ↓
-main.py
-        ↓
-scored_companies.csv
+seed_companies.csv -> load_clean_data.py -> api_reguest.py -> score_leads.py -> main.py -> scored_companies.csv
 
-*To run the entire pipeline, execute src/main.py. It runs the workflow from start to finish and returns a ranked list of companies.*
+**To run the entire pipeline, execute src/main.py. It runs the workflow from start to finish and returns a ranked list of companies.**
