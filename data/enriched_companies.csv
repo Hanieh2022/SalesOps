@@ -1,0 +1,20 @@
+company_name,country,business_segment,approximate_size,matched_name,business_id,business_line,website,location,match_found,compliance_pressure_score,business_model_fit_score,size_fit_score,lead_score
+Futurice,Finland,IT Services,800,Futurice Oy,1623507-4,Computer programming activities,www.futurice.com,HELSINGFORS,True,6.5,6.0,10.0,7.2
+Relex Solutions,Finland,Retail Tech,1800,,,,,,False,7.0,7.5,7.5,7.3
+Aiven,Finland,Cloud Infrastructure,450,Haiven Lastensuojelu Oy,3391345-5,Other miscellaneous social work activities without accommodation n.e.c.,,KIRKKONUMMI,True,10.0,10.0,10.0,10.0
+Wolt,Finland,Platform,7000,Tapani Woltter Ky,0668931-2,Coastal freight water transport,,,True,5.0,4.5,4.5,4.7
+Supercell,Finland,Mobile Gaming,500,Supercell Oy,2336509-6,Computer consultancy and computer facilities management activities,www.supercell.com,HELSINGFORS,True,4.0,3.5,10.0,5.32
+Varjo,Finland,XR Technology,300,Varjosen Kiinteistöt Oy,0194499-4,Letting of other real estate,,,True,8.5,8.0,10.0,8.7
+ICEYE,Finland,Space Technology,600,ICEYE Oy,2639822-1,Engineering design and technical consultancy incidental to urban planning,www.iceye.fi,ESBO,True,9.5,8.5,10.0,9.28
+Smartly.io,Finland,AdTech,700,Smartly.io Solutions Oy,3145736-1,Computer programming activities,https://www.smartly.io/,HELSINGFORS,True,7.5,8.0,10.0,8.3
+Swappie,Finland,E-commerce,600,Swappie Oy,2692328-4,Other information technology and computer service activities,www.swappie.com,HELSINGFORS,True,5.5,5.0,10.0,6.45
+Oura Health,Finland,Health Tech,700,Oura Health Oy,2542776-4,Research and experimental development on natural sciences and engineering,www.ouraring.com,OULU,True,9.5,8.5,10.0,9.28
+Tietoevry,Finland,IT Services,15000,Tietoevry 12 Oy,1914861-1,Computer facilities management activities,,,True,6.5,6.0,2.0,5.2
+Nokia,Finland,Telecommunications,86000,Fysios Mehiläinen Oy,0194099-3,Physiotherapy activities,,HELSINGFORS,True,9.0,4.5,2.0,5.68
+Solita,Finland,Data Consulting,2000,Solitaire Kb,0596930-4,Fishing,,,True,7.0,6.5,7.5,6.95
+Vincit,Finland,Software Development,550,Vincitore Oy,0683981-9,Wholesale of sports goods,,,True,6.5,6.0,10.0,7.2
+Bittium,Finland,Secure Communications,650,Bittium Biosignals Oy,0536385-5,"Manufacture of irradiation, electromedical and electrotherapeutic equipment",,KUOPIO,True,10.0,9.0,10.0,9.65
+Rovio Entertainment,Finland,Mobile Gaming,500,Rovio Entertainment Oy,1863026-2,Computer programming activities,www.rovio.com,ESBO,True,4.0,3.5,10.0,5.32
+Rightware,Finland,Automotive Software,180,Brightware Oy,0637479-1,Other software consultancy and supply,,,True,8.0,7.0,10.0,8.15
+Klevu,Finland,E-commerce AI,150,Klevu Oy,2541030-5,Computer programming activities,www.klevu.com,HELSINGFORS,True,7.5,7.5,10.0,8.12
+Valohai,Finland,Machine Learning Infrastructure,50,Valohai Oy,2786205-7,Computer programming activities,,TURKU,True,9.0,9.5,10.0,9.43
